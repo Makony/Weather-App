@@ -10,4 +10,5 @@ Features:
 
 Technologies Used:
   Java
+  JSON
   External Weather API (Weather Forecast API, Geocoding API)
