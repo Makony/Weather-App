@@ -9,6 +9,6 @@ Features:
   API Integration: Utilizes an external weather API to fetch real-time weather data.
 
 Technologies Used:
-  Java
-  JSON
+  Java,
+  JSON,
   External Weather API (Weather Forecast API, Geocoding API)
